@@ -1,0 +1,19 @@
+# Upstream clones with their own git history and remotes -- not vendored here.
+#   xv6-riscv       -> github.com/mit-pdos/xv6-riscv
+#   ostep-homework  -> github.com/remzi-arpacidusseau/ostep-homework
+/xv6-riscv/
+/ostep-homework/
+
+# Compiled C binaries
+process-api/p1
+process-api/p2
+process-api/p3
+process-api/p4
+process-api/homeworks/fork_file
+process-api/homeworks/fork_odering
+process-api/homeworks/fork_ordering
+process-api/homeworks/fork_variable
+
+*.o
+*.out
+a.out
